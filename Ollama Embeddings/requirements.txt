@@ -1,0 +1,14 @@
+# requirements.txt — dependencias para los cuadernos de integración con Ollama
+# Python 3.9+ recomendado
+
+# Núcleo: cliente HTTP para consumir la API REST local de Ollama
+requests
+
+# Embeddings, visualización y machine learning
+numpy
+matplotlib
+scikit-learn
+
+# (Opcional) Si vas a ejecutar y editar el notebook localmente:
+# jupyter>=1.0.0
+# ipykernel>=6.29.0
